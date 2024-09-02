@@ -1,0 +1,16 @@
+{
+  "apptitle": "ToDo App",
+  "changelang": "Change Language",
+  "arabic": "Arabic",
+  "english": "English",
+  "addtodo": "Add ToDo",
+  "title": "Title",
+  "plsentertitle": "Please enter a title",
+  "description": "Description",
+  "plsenterdesc": "Please enter a description",
+  "selecttaskdate": "Select Task Date",
+  "plsentertask": "Please enter task date",
+  "save" : "Save",
+  "notask" : "No Tasks Available !"
+
+}

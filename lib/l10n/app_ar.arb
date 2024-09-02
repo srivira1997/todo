@@ -1,0 +1,15 @@
+{
+  "apptitle": "تطبيق المهام",
+  "changelang": "تغيير اللغة",
+  "arabic": "العربية",
+  "english": "الإنجليزية",
+  "addtodo": "إضافة مهمة",
+  "title": "العنوان",
+  "plsentertitle": "يرجى إدخال العنوان",
+  "description": "الوصف",
+  "plsenterdesc": "يرجى إدخال الوصف",
+  "selecttaskdate": "اختر تاريخ المهمة",
+  "plsentertask": "يرجى إدخال تاريخ المهمة",
+  "save" : "حفظ",
+  "notask": "لا توجد مهام متاحة!"
+}
